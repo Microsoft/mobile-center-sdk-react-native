@@ -13,6 +13,7 @@
     "appcenter-analytics": "^3.1.2",
     "appcenter-crashes": "^3.1.2",
     "metro": "0.54.1",
+    "metro-core": "^0.59.0",
     "react": "16.8.3",
     "react-native": "0.59.9",
     "react-native-fs": "2.9.12",
